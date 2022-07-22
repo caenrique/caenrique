@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @caenrique
-- 👀 I’m interested in Functional Programming, Scala and Neovim things :)
+- 👀 I’m interested in Functional Programming, Scala and Neovim related things :)
 - 💞️ I’m happy to collaborate on Lua or Scala libraries
 
 <!---
